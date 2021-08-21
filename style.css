@@ -407,6 +407,10 @@ nav{
         font-size: 12px;
     }
 
+    .card {
+        width: 60%;
+    }
+
     .f1 {
         width: 80%;
     }
